@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Omar 👋</h1>
 
-<!--
-**darknessvio/darknessvio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>CS Student · Backend Developer · Cybersecurity Enthusiast</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+3rd-year Computer Science student at the **Egyptian Chinese University (ECU)**, focused on backend development and cybersecurity. I like understanding how systems work under the hood — databases, networks, and where they can break.
+
+-  Competitive programmer — ECPC, Honorable Mention (3 problems solved)
+-  Interested in cybersecurity — hands-on with tools like Burp Suite for vulnerability testing
+-  Currently sharpening backend and security fundamentals through projects and CTF-style practice
+
+---
+
+### Projects
+
+**Gym Management System**
+Full-stack app with a Node.js/Express REST API and SQL Server database — designed the schema, wrote migrations, and built the backend logic end-to-end.
+`Node.js` `Express` `SQL Server` `REST API`
+
+**Network Monitoring Project**
+Built to monitor and analyze network traffic/activity.
+`Networking` 
+
+---
